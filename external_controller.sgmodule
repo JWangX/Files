@@ -1,0 +1,5 @@
+#!name=External Controller
+#!desc=External Controller
+
+[General]
+external-controller-access = lhie1@0.0.0.0:6170
