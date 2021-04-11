@@ -2,4 +2,4 @@
 #!desc=Proxy Test URL
 
 [General]
-proxy-test-url = https://www.gstatic.com/generate_204
+proxy-test-url = http://www.gstatic.com/generate_204
