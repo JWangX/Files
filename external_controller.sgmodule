@@ -2,4 +2,4 @@
 #!desc=External Controller
 
 [General]
-external-controller-access = jameswang91@192.168.50.11:6171
+external-controller-access = jameswang91@0.0.0.0:6170
