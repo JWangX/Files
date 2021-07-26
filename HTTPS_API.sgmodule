@@ -1,5 +1,5 @@
-#!name=HTTP_API
-#!desc=HTTP_API
+#!name=HTTPS_API
+#!desc=HTTPS_API
 
 [General]
 http-api = jameswang91@0.0.0.0:6171
