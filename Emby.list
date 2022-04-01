@@ -27,6 +27,9 @@ DOMAIN,prpr.kyarucloud.moe
 DOMAIN,emby.ssltd.xyz
 DOMAIN,pornemby.ssltd.xyz
 
+# > 流媒体emby-TAG服务器
+DOMAIN,emby.riches.cloud/
+
 # > 流媒体emby-Plus体验服
 DOMAIN,emby.plusmedia.site
 DOMAIN,emby-cf.plusmedia.site 
