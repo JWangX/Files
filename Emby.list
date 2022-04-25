@@ -18,6 +18,11 @@ DOMAIN,emby.kim
 # > 流媒体MisakaF服务器
 DOMAIN,emby.misakaf.xyz
 
+# > 流媒体黑山服务器
+DOMAIN,hs.gcx920110.com
+DOMAIN,sg.gcx920110.com
+
+
 # > 流媒体pornemby服务器
 DOMAIN,pornemby.club
 
