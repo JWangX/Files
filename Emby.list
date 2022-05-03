@@ -14,6 +14,3 @@ DOMAIN,emby.flowercloud.yt
 
 # > 流媒体emby-TAG服务器
 DOMAIN,emby.riches.cloud
-
-# > 流媒体emby-Texon服务器
-IP-CIDR,203.198.87.6/32
