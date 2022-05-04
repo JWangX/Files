@@ -1,3 +1,8 @@
+# > 网盘PikPak服务器
+IP-CIDR,147.139.0.0/16
+IP-CIDR,149.129.0.0/16
+DOMAIN,mypikpak.com
+
 # > 流媒体卷毛鼠服务器
 DOMAIN,jmsooo.com
 DOMAIN,cf.jmsooo.com
