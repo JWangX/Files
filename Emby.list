@@ -12,11 +12,5 @@ DOMAIN,sg2.jmsooo.com
 DOMAIN,usa1.jmsooo.com
 DOMAIN,usa2.jmsooo.com
 
-# > 流媒体MisakaF服务器
-DOMAIN,emby.misakaf.xyz
-
 # > 流媒体emby-TAG服务器
 DOMAIN,emby.riches.cloud
-
-# > 流媒体emby-flowercloud服务器
-DOMAIN,emby.flowercloud.yt
