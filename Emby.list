@@ -12,5 +12,8 @@ DOMAIN,sg2.jmsooo.com
 DOMAIN,usa1.jmsooo.com
 DOMAIN,usa2.jmsooo.com
 
+# > 流媒体emby-CharonTV服务器
+DOMAIN,play.charontv.com
+
 # > 流媒体emby-TAG服务器
 DOMAIN,emby.riches.cloud
