@@ -5,18 +5,21 @@ DOMAIN-KEYWORD,pikpak
 DOMAIN-SUFFIX,mypikpak.com
 
 # > 流媒体卷毛鼠服务器
-DOMAIN,jmsooo.com
+DOMAIN-SUFFIX,jmsooo.com
 DOMAIN,cf.jmsooo.com
-DOMAIN,sg1.jmsooo.com
-DOMAIN,sg2.jmsooo.com
-DOMAIN,usa1.jmsooo.com
-DOMAIN,usa2.jmsooo.com
+DOMAIN,ha.jmsooo.com
 
 # > 流媒体emby-CharonTV服务器
+DOMAIN-SUFFIX,charontv.com
 DOMAIN,play.charontv.com
 
 # > 流媒体emby-FlowerCloud服务器
 DOMAIN,emby.flowercloud.yt
 
 # > 流媒体emby-TAG服务器
+DOMAIN-SUFFIX,rickes.cloud
+DOMAIN-SUFFIX,embylianmeng.com
 DOMAIN,emby.riches.cloud
+DOMAIN,register.embylianmeng.com
+DOMAIN,tagemby.embylianmeng.com
+
