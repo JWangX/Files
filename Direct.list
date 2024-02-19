@@ -26,6 +26,9 @@ DOMAIN-SUFFIX,mobile-gtalk.l.google.com,Direct
 PROCESS-NAME,v2ray,Direct
 PROCESS-NAME,ss-local,Direct
 PROCESS-NAME,UUBooster,Direct
+# > IPTV
+IP-CIDR,43.154.185.153/23,no-resolve
+IP-CIDR,175.178.179.152/23,no-resolve
 
 # > Download
 PROCESS-NAME,aria2c,Direct
