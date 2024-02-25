@@ -1,6 +1,7 @@
 #!name=Direct
 #!desc=Direct Rules
 
+[Rule]
 # > Subscription
 DOMAIN-SUFFIX,ieginh.lol,DIRECT
 DOMAIN-SUFFIX,flowercloud.xyz,DIRECT
