@@ -143,9 +143,9 @@ DOMAIN-SUFFIX, doubanio.com, DIRECT
 #同步数据
 DOMAIN, gateway.icloud.com, DIRECT
 #杂七杂八的播放
-DOMAIN-keyword, v.cdnlz, DIRECT
-DOMAIN-keyword, vip.kuaikan, DIRECT
-DOMAIN-keyword, vip.ffzy, DIRECT
+DOMAIN-KEYWORD, v.cdnlz, DIRECT
+DOMAIN-KEYWORD, vip.kuaikan, DIRECT
+DOMAIN-KEYWORD, vip.ffzy, DIRECT
 DOMAIN, vod2.kczybf.com, DIRECT
 DOMAIN, top.1080pzy.co, DIRECT
 DOMAIN, c3.monidai.com, DIRECT
