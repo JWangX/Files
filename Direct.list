@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,wndtkn.xyz,DIRECT
 
 # > Spotify
 DOMAIN-SUFFIX,ap.spotify.com,DIRECT
+
 # > Google
 DOMAIN,mtalk.google.com,Direct
 DOMAIN,mobile-gtalk.l.google.com,DIRECT
