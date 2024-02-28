@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,wndtkn.xyz,DIRECT
 DOMAIN-SUFFIX,ap.spotify.com,DIRECT
 
 # > Google
-DOMAIN,mtalk.google.com,Direct
+DOMAIN,mtalk.google.com,DIRECT
 DOMAIN,mobile-gtalk.l.google.com,DIRECT
 DOMAIN,alt1-mtalk.google.com,DIRECT
 DOMAIN,alt2-mtalk.google.com,DIRECT
