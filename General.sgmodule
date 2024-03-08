@@ -35,3 +35,6 @@ show-error-page-for-reject = true
 use-default-policy-if-wifi-not-primary = false
 wifi-assist = true
 udp-priority = true
+
+ipv6 = true
+geoip-maxmind-url = https://github.com/Hackl0us/GeoIP2-CN/raw/release/Country.mmdb
