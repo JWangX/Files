@@ -10,10 +10,38 @@ DOMAIN-SUFFIX,oxycontin.cc,DIRECT
 DOMAIN-SUFFIX,kwk7thgc.com,DIRECT
 DOMAIN-SUFFIX,stentvessel.club,DIRECT
 
-# > Emby
+# > BDD Emby
 DOMAIN-SUFFIX,bestemby.com,DIRECT
+# > Magpie Emby
+DOMAIN,4.v4v223789.kmfjnwr1.223789.xyz,DIRECT
+DOMAIN,6.v6v223789.kmfjnwr1.223789.xyz,DIRECT
+DOMAIN,4.v4v223789.sxfwvxg1.223789.xyz,DIRECT
+DOMAIN,6.v6v223789.sxfwvxg1.223789.xyz,DIRECT
+# > 明天倒闭 Emby
+DOMAIN,hkclaw.sexemby.com,DIRECT
+DOMAIN,hkvol.sexemby.com,DIRECT
+DOMAIN,us4837.sexemby.com,DIRECT
+DOMAIN,jpclaw2.sexemby.com,DIRECT
+DOMAIN,jpvol.sexemby.com,DIRECT
+DOMAIN,jpvol3.sexemby.com,DIRECT
+DOMAIN,sgclaw.sexemby.com,DIRECT
+DOMAIN,sg02.sexemby.com,DIRECT
+DOMAIN,gz302.sexemby.com,DIRECT
+DOMAIN,cdn.sexemby.com,DIRECT
+# > Tank Emby
 DOMAIN-SUFFIX,tiangou.xyz,DIRECT
-DOMAIN-SUFFIX,yeahfast.com,DIRECT
+# > AlphaTV Emby
+DOMAIN,aop1.204cloud.com,DIRECT
+DOMAIN,aop2.204cloud.com,DIRECT
+DOMAIN,aop3.204cloud.com,DIRECT
+DOMAIN,aop4.204cloud.com,DIRECT
+DOMAIN,aocn.204cloud.com,DIRECT
+# > Starharn Emby
+DOMAIN,starharn-global.nebula-media.org,DIRECT
+DOMAIN,starharn-direct.nebula-media.org,DIRECT
+# > MICU Emby
+DOMAIN,tv.micu.hk,DIRECT
+DOMAIN,tv1.micu.hk,DIRECT
 
 # > Spotify
 DOMAIN-SUFFIX,ap.spotify.com,DIRECT
