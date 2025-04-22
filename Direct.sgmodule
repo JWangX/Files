@@ -36,6 +36,15 @@ DOMAIN,aop2.204cloud.com,DIRECT
 DOMAIN,aop3.204cloud.com,DIRECT
 DOMAIN,aop4.204cloud.com,DIRECT
 DOMAIN,aocn.204cloud.com,DIRECT
+# > 流星 Emby
+DOMAIN,embyhw.liustar.click,DIRECT
+DOMAIN,emby2.liustar.click,DIRECT
+DOMAIN,emby3.liustar.click,DIRECT
+DOMAIN,embytest.liustar.click,DIRECT
+DOMAIN,embytest2.liustar.click,DIRECT
+DOMAIN,embyfz.liustar.click,DIRECT
+DOMAIN,embydmit.liustar.click,DIRECT
+DOMAIN,embyhw3.liustar.click,DIRECT
 # > Starharn Emby
 DOMAIN,starharn-global.nebula-media.org,DIRECT
 DOMAIN,starharn-direct.nebula-media.org,DIRECT
