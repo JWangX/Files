@@ -7,16 +7,34 @@ DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
 DOMAIN-SUFFIX,hubciddata.sandai.net
 DOMAIN-KEYWORD,mypikpak
 
-# > Emby
+# > Magpie Emby
 DOMAIN-SUFFIX,023168.xyz
-DOMAIN-SUFFIX,alphatvapp.top
-DOMAIN-SUFFIX,micu.hk
-DOMAIN-SUFFIX,micu.me
-DOMAIN-SUFFIX,vban.xyz
-DOMAIN-SUFFIX,mooguu.org
-DOMAIN-SUFFIX,as174.de
-DOMAIN-SUFFIX,nvidia.rip
-DOMAIN-SUFFIX,285286.xyz
-DOMAIN-SUFFIX,zox.show
-DOMAIN-SUFFIX,yezi.my
-DOMAIN-SUFFIX,xmsl.org
+# > 明天倒闭 Emby
+DOMAIN,emby.sexemby.com
+# > AlphaTV Emby
+DOMAIN,alphatvop.alphatvapp.top
+DOMAIN,alphatvx.alphatvapp.top
+# > Starharn Emby
+DOMAIN,starharn-cf.nebula-media.org
+DOMAIN,starharn.nebula-media.org
+# > MICU Emby
+DOMAIN,media.micu.hk
+# > 蘑菇 Emby
+DOMAIN,wf.vban.xyz
+DOMAIN,wf.mooguu.xyz
+# > hxd Emby
+DOMAIN,hxd.as174.de
+DOMAIN,cf.bili.rip
+DOMAIN,emby.as174.de
+# > Temby
+DOMAIN,temby856.285286.xyz
+# > Zox Emby
+DOMAIN,entry.zox.show
+DOMAIN,cf.zox.show
+# > 垃圾公费 Emby
+DOMAIN,line.xmsl.org
+# > 叶子 Emby
+DOMAIN,super.yezi.my
+DOMAIN,yyds.yezi.my
+DOMAIN,yzyz.yezi.my
+DOMAIN,yz.yezi.my
