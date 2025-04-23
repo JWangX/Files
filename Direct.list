@@ -54,7 +54,7 @@ DOMAIN,starharn-direct.nebula-media.org,DIRECT
 DOMAIN,tv.micu.hk,DIRECT
 DOMAIN,tv1.micu.hk,DIRECT
 # > IFN
-DOMAIN,ifn.watch.DIRECT
+DOMAIN,ifn.watch,DIRECT
 
 
 # > Spotify
