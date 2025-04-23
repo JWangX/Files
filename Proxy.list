@@ -27,13 +27,17 @@ DOMAIN,starharn-cf.nebula-media.org
 DOMAIN,starharn.nebula-media.org
 # > MICU Emby
 DOMAIN,media.micu.hk
-# > 蘑菇 Emby
-DOMAIN,wf.vban.xyz
-DOMAIN,wf.mooguu.xyz
+# > 月饼 Emby
+DOMAIN,hardmoon.net
 # > hxd Emby
 DOMAIN,hxd.as174.de
 DOMAIN,cf.bili.rip
 DOMAIN,emby.as174.de
+# > 蘑菇 Emby
+DOMAIN,wf.vban.xyz
+DOMAIN,wf.mooguu.xyz
+# > 云海 Emby
+DOMAIN,emby.oceancloud.asia
 # > Temby
 DOMAIN,temby856.285286.xyz
 # > Zox Emby
