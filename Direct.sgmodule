@@ -57,6 +57,8 @@ DOMAIN,starharn-direct.nebula-media.org,DIRECT
 # > MICU Emby
 DOMAIN,tv.micu.hk,DIRECT
 DOMAIN,tv1.micu.hk,DIRECT
+# > IFN
+DOMAIN,ifn.watch,DIRECT
 
 # > Spotify
 DOMAIN-SUFFIX,ap.spotify.com,DIRECT
