@@ -9,6 +9,12 @@ DOMAIN-KEYWORD,mypikpak
 
 # > Magpie Emby
 DOMAIN-SUFFIX,023168.xyz
+# > MeFun
+DOMAIN,cfptv.ii00.cc
+DOMAIN,wptv.ii00.cc
+DOMAIN,cfgtv.ii00.cc
+DOMAIN,wgtv.ii00.cc
+DOMAIN,music.mefun.vip
 # > 明天倒闭 Emby
 DOMAIN,emby.sexemby.com
 # > AlphaTV Emby
