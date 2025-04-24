@@ -8,11 +8,6 @@ DOMAIN-SUFFIX,stentvessel.club,DIRECT
 
 # > BDD Emby
 DOMAIN-SUFFIX,bestemby.com,DIRECT
-# > Magpie Emby
-DOMAIN,4.v4v223789.kmfjnwr1.223789.xyz,DIRECT
-DOMAIN,6.v6v223789.kmfjnwr1.223789.xyz,DIRECT
-DOMAIN,4.v4v223789.sxfwvxg1.223789.xyz,DIRECT
-DOMAIN,6.v6v223789.sxfwvxg1.223789.xyz,DIRECT
 # > MeFun
 DOMAIN,p.once.im,DIRECT
 DOMAIN,sptv.ii00.cc,DIRECT
