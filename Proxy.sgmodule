@@ -1,0 +1,62 @@
+#!name=Proxy
+#!desc=Proxy Rules
+
+[Rule]
+# > PikPak
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+DOMAIN-SUFFIX,hub5pnc.sandai.net
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+DOMAIN-SUFFIX,hubciddata.sandai.net
+DOMAIN-KEYWORD,mypikpak
+
+# > Magpie Emby
+DOMAIN-SUFFIX,023168.xyz
+DOMAIN,4.v4v223789.kmfjnwr1.223789.xyz
+DOMAIN,6.v6v223789.kmfjnwr1.223789.xyz
+DOMAIN,4.v4v223789.sxfwvxg1.223789.xyz
+DOMAIN,6.v6v223789.sxfwvxg1.223789.xyz
+# > MeFun
+DOMAIN,cfptv.ii00.cc
+DOMAIN,wptv.ii00.cc
+DOMAIN,cfgtv.ii00.cc
+DOMAIN,wgtv.ii00.cc
+DOMAIN,music.mefun.vip
+# > 明天倒闭 Emby
+DOMAIN,emby.sexemby.com
+# > AlphaTV Emby
+DOMAIN,alphatvop.alphatvapp.top
+DOMAIN,alphatvx.alphatvapp.top
+# > 流星 Emby
+DOMAIN,embyhw2.liustar.click
+# > Starharn Emby
+DOMAIN,starharn-cf.nebula-media.org
+DOMAIN,starharn.nebula-media.org
+# > 憨豆 Emby
+DOMAIN,a1.handoumedia.top
+DOMAIN,a2.handoumedia.top
+DOMAIN,a3.handoumedia.top
+# > MICU Emby
+DOMAIN,media.micu.hk
+# > hxd Emby
+DOMAIN,hxd.as174.de
+DOMAIN,cf.bili.rip
+DOMAIN,emby.as174.de
+# > 蘑菇 Emby
+DOMAIN,wf.vban.xyz
+DOMAIN,wf.mooguu.xyz
+# > 云海 Emby
+DOMAIN,emby.oceancloud.asia
+# > Temby
+DOMAIN,temby856.285286.xyz
+# > Zox Emby
+DOMAIN,entry.zox.show
+DOMAIN,cf.zox.show
+# > 垃圾公费 Emby
+DOMAIN,line.xmsl.org
+# > 叶子 Emby
+DOMAIN,super.yezi.my
+DOMAIN,yyds.yezi.my
+DOMAIN,yzyz.yezi.my
+DOMAIN,yz.yezi.my
