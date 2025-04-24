@@ -18,6 +18,8 @@ DOMAIN,sptv.ii00.cc,DIRECT
 DOMAIN,g.once.im,DIRECT
 DOMAIN,sgtv.ii00.cc,DIRECT
 DOMAIN,cn-music.mefun.vip,DIRECT
+# > 月饼 Emby
+IP-CIDR,118.89.233.90/24,DIRECT,no-resolve
 # > 明天倒闭 Emby
 DOMAIN,hkclaw.sexemby.com,DIRECT
 DOMAIN,hkvol.sexemby.com,DIRECT
