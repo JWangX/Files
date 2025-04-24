@@ -29,10 +29,12 @@ DOMAIN,embyhw2.liustar.click
 # > Starharn Emby
 DOMAIN,starharn-cf.nebula-media.org
 DOMAIN,starharn.nebula-media.org
+# > 憨豆 Emby
+DOMAIN,a1.handoumedia.top
+DOMAIN,a2.handoumedia.top
+DOMAIN,a3.handoumedia.top
 # > MICU Emby
 DOMAIN,media.micu.hk
-# > 月饼 Emby
-DOMAIN,hardmoon.net
 # > hxd Emby
 DOMAIN,hxd.as174.de
 DOMAIN,cf.bili.rip
