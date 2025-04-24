@@ -21,11 +21,11 @@ DOMAIN,wgtv.ii00.cc
 DOMAIN,music.mefun.vip
 # > 明天倒闭 Emby
 DOMAIN,emby.sexemby.com
+# > 流星 Emby
+DOMAIN,embyhw2.liustar.click
 # > AlphaTV Emby
 DOMAIN,alphatvop.alphatvapp.top
 DOMAIN,alphatvx.alphatvapp.top
-# > 流星 Emby
-DOMAIN,embyhw2.liustar.click
 # > Starharn Emby
 DOMAIN,starharn-cf.nebula-media.org
 DOMAIN,starharn.nebula-media.org
@@ -35,6 +35,9 @@ DOMAIN,a2.handoumedia.top
 DOMAIN,a3.handoumedia.top
 # > MICU Emby
 DOMAIN,media.micu.hk
+# > AWA Emby
+DOMAIN,emby.awatv.de
+DOMAIN,cera.awatv.de
 # > hxd Emby
 DOMAIN,hxd.as174.de
 DOMAIN,cf.bili.rip
