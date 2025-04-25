@@ -13,6 +13,20 @@ DOMAIN,4.v4v223789.kmfjnwr1.223789.xyz
 DOMAIN,6.v6v223789.kmfjnwr1.223789.xyz
 DOMAIN,4.v4v223789.sxfwvxg1.223789.xyz
 DOMAIN,6.v6v223789.sxfwvxg1.223789.xyz
+DOMAIN,4.v4v223789.axudwbru1.223789.xyz
+DOMAIN,6.v6v223789.axudwbru1.223789.xyz
+DOMAIN,4.v4v223789.er.uvkkvk1.223789.xyz
+DOMAIN,4.v4xdu295.a.api.kweioxg2.223789.xyz
+DOMAIN,6.v6xdu295.a.api.kweioxg2.223789.xyz
+DOMAIN,4.v4dwv882.b.gpou.sweioxg2.223789.xyz
+DOMAIN,6.v6dwv882.b.gpou.sweioxg2.223789.xyz
+DOMAIN,4.fireirf.ufvvlvbs.223789.xyz
+DOMAIN,4.v4sfv872vx.y.newbee.d09789e1.223789.xyz
+DOMAIN,6.v6sfv872vx.y.newbee.d09789e1.223789.xyz
+# > 微光 DimLight Emby
+DOMAIN,dimlight-jpiij.cynn.top
+DOMAIN,dimlight-jp.cynn.top
+DOMAIN,dimlight-uscn2.cynn.top
 # > MeFun
 DOMAIN,cfptv.ii00.cc
 DOMAIN,wptv.ii00.cc
@@ -21,14 +35,17 @@ DOMAIN,wgtv.ii00.cc
 DOMAIN,music.mefun.vip
 # > 明天倒闭 Emby
 DOMAIN,emby.sexemby.com
-# > 流星 Emby
-DOMAIN,embyhw2.liustar.click
-# > AlphaTV Emby
-DOMAIN,alphatvop.alphatvapp.top
-DOMAIN,alphatvx.alphatvapp.top
 # > Starharn Emby
 DOMAIN,starharn-cf.nebula-media.org
 DOMAIN,starharn.nebula-media.org
+# > AlphaTV Emby
+DOMAIN,alphatvop.alphatvapp.top
+DOMAIN,alphatvx.alphatvapp.top
+# > 流星 Emby
+DOMAIN,embyhw2.liustar.click
+# > 飞跃地平线 Emby
+IP-CIDR,104.161.22.114/24,no-resolve
+DOMAIN,123456.buzz
 # > 憨豆 Emby
 DOMAIN,a1.handoumedia.top
 DOMAIN,a2.handoumedia.top
@@ -38,6 +55,12 @@ DOMAIN,media.micu.hk
 # > AWA Emby
 DOMAIN,emby.awatv.de
 DOMAIN,cera.awatv.de
+# > 硬月 Emby
+DOMAIN,hardmoon.net
+DOMAIN,hk.hardmoon.net
+# > 起点站 Emby
+DOMAIN,nb.28.al
+DOMAIN,qdz1.top
 # > hxd Emby
 DOMAIN,hxd.as174.de
 DOMAIN,cf.bili.rip
@@ -45,8 +68,12 @@ DOMAIN,emby.as174.de
 # > 蘑菇 Emby
 DOMAIN,wf.vban.xyz
 DOMAIN,wf.mooguu.xyz
+# > 拼好服 Emby
+DOMAIN,19333991.xyz
+DOMAIN,emby.19333991.xyz
 # > 云海 Emby
 DOMAIN,emby.oceancloud.asia
+DOMAIN,nsfw.oceancloud.asia
 # > Temby
 DOMAIN,temby856.285286.xyz
 # > Zox Emby
