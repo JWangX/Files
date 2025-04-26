@@ -29,6 +29,9 @@ DOMAIN,emby.sexemby.com
 # > Starharn Emby
 DOMAIN,starharn-cf.nebula-media.org
 DOMAIN,starharn.nebula-media.org
+# > 好鸭 NiceDuck Emby
+DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,niceduck.lol
 # > AlphaTV Emby
 DOMAIN,alphatvop.alphatvapp.top
 DOMAIN,alphatvx.alphatvapp.top
@@ -49,6 +52,9 @@ DOMAIN,cera.awatv.de
 # > 硬月 Emby
 DOMAIN,hardmoon.net
 DOMAIN,hk.hardmoon.net
+# > 云海 Emby
+DOMAIN,emby.oceancloud.asia
+DOMAIN,nsfw.oceancloud.asia
 # > 起点站 Emby
 DOMAIN,nb.28.al
 DOMAIN,qdz1.top
@@ -62,21 +68,15 @@ DOMAIN,wf.mooguu.xyz
 # > 拼好服 Emby
 DOMAIN,19333991.xyz
 DOMAIN,emby.19333991.xyz
-# > 云海 Emby
-DOMAIN,emby.oceancloud.asia
-DOMAIN,nsfw.oceancloud.asia
 # > Temby
 DOMAIN,temby856.285286.xyz
 # > Zox Emby
 DOMAIN,entry.zox.show
 DOMAIN,cf.zox.show
-# > 垃圾公费 Emby
+# > 1111 Emby
 DOMAIN,line.xmsl.org
 # > 叶子 Emby
 DOMAIN,super.yezi.my
 DOMAIN,yyds.yezi.my
 DOMAIN,yzyz.yezi.my
 DOMAIN,yz.yezi.my
-# > 好鸭 NiceDuck Emby
-DOMAIN-SUFFIX,emby.moe
-DOMAIN-SUFFIX,niceduck.lol
