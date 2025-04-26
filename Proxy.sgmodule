@@ -90,3 +90,6 @@ DOMAIN,super.yezi.my
 DOMAIN,yyds.yezi.my
 DOMAIN,yzyz.yezi.my
 DOMAIN,yz.yezi.my
+# > 好鸭 NiceDuck Emby
+DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,niceduck.lol
