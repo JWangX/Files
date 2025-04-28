@@ -1,11 +1,15 @@
-# > 国内服
+# > 国内服 Emby
 # > 微光 DimLight Emby
 DOMAIN,faka.dimlight.top
 DOMAIN,dimlight-jpiij.cynn.top
 DOMAIN,dimlight-jp.cynn.top
 DOMAIN,dimlight-uscn2.cynn.top
+# > 映月 Emby
+DOMAIN,shop.yuebing.xyz
+# > Tank Emby
+DOMAIN,x.vivo50.cc
 
-# > 常规服
+# > 常规服 Emby
 # > Magpie Emby
 DOMAIN-SUFFIX,023168.xyz
 DOMAIN,4.v4v223789.kmfjnwr1.223789.xyz
@@ -24,8 +28,6 @@ DOMAIN,4.v4sfv872vx.y.newbee.d09789e1.223789.xyz
 DOMAIN,6.v6sfv872vx.y.newbee.d09789e1.223789.xyz
 # > MeFun
 DOMAIN,shop.iioo.cc
-DOMAIN,cfptv.ii00.cc
-DOMAIN,wptv.ii00.cc
 DOMAIN,cfgtv.ii00.cc
 DOMAIN,wgtv.ii00.cc
 DOMAIN,music.mefun.vip
@@ -37,7 +39,7 @@ DOMAIN,shop.nebula-media.org
 DOMAIN,starharn-cf.nebula-media.org
 DOMAIN,starharn.nebula-media.org
 
-# > 公费服
+# > 公费服 Emby
 # > AlphaTV Emby
 DOMAIN,store.alphatvapp.top
 DOMAIN,alphatvop.alphatvapp.top
@@ -60,7 +62,6 @@ DOMAIN,media.micu.hk
 DOMAIN,shop.nvidia.rip
 DOMAIN,hxd.as174.de
 DOMAIN,cf.bili.rip
-DOMAIN,emby.as174.de
 # > AWA Emby
 DOMAIN,shop.awatv.de
 DOMAIN,emby.awatv.de
@@ -68,12 +69,12 @@ DOMAIN,cera.awatv.de
 # > 云海 Emby
 DOMAIN,store.oceancloud.asia
 DOMAIN,emby.oceancloud.asia
-DOMAIN,nsfw.oceancloud.asia
 # > 起点站 Emby
 DOMAIN,shop.startednow.org
 DOMAIN,nb.28.al
 DOMAIN,qdz1.top
 # > 跑路 Emby
+DOMAIN,faka.paloluma.de
 DOMAIN,cctv.paoluma.de
 # > 蘑菇 Emby
 DOMAIN,mooguu.xyz
@@ -98,8 +99,19 @@ DOMAIN,yyds.yezi.my
 DOMAIN,yzyz.yezi.my
 DOMAIN,yz.yezi.my
 
-# > 机场服
+# > 机场服 Emby
 # > 好鸭 NiceDuck Emby
 DOMAIN,my.niceduck.io
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,niceduck.lol
+
+# > 成人服 Emby
+# > PornFans Emby
+DOMAIN,cfptv.ii00.cc
+DOMAIN,wptv.ii00.cc
+# > AlphaTV-X
+DOMAIN,alphatvx.alphatvapp.top
+# > hxd_porn Emby
+DOMAIN,emby.as174.de
+# > 云海NSFW Emby
+DOMAIN,nsfw.oceancloud.asia
