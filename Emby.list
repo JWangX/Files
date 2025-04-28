@@ -104,6 +104,10 @@ DOMAIN,yz.yezi.my
 DOMAIN,my.niceduck.io
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,niceduck.lol
+# > 守候 SNTP Emby
+DOMAIN,emby.cn2gias.uk
+# > SYN Emby
+DOMAIN,stream.synn.cc
 
 # > 成人服 Emby
 # > PornFans Emby
