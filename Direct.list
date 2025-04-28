@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,oxycontin.cc,DIRECT
 DOMAIN-SUFFIX,kwk7thgc.com,DIRECT
 DOMAIN-SUFFIX,stentvessel.club,DIRECT
 
-# > 国内服
+# > 国内服 Emby
 # > BigTV Emby
 DOMAIN-SUFFIX,bestemby.com,DIRECT
 # > 微光 DimLight Emby
@@ -20,7 +20,7 @@ IP-CIDR,118.89.233.90/24,DIRECT,no-resolve
 # > Tank Emby
 DOMAIN-SUFFIX,tiangou.xyz,DIRECT
 
-# > 常规服
+# > 常规服 Emby
 # > MeFun Emby
 DOMAIN,p.once.im,DIRECT
 DOMAIN,sptv.ii00.cc,DIRECT
@@ -42,7 +42,7 @@ DOMAIN,cdn.sexemby.com,DIRECT
 DOMAIN,starharn-global.nebula-media.org,DIRECT
 DOMAIN,starharn-direct.nebula-media.org,DIRECT
 
-# > 公费服
+# > 公费服 Emby
 # > AlphaTV Emby
 DOMAIN,aop1.204cloud.com,DIRECT
 DOMAIN,aop2.204cloud.com,DIRECT
