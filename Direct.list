@@ -51,6 +51,9 @@ DOMAIN,aocn.204cloud.com,DIRECT
 # > Starharn Emby
 DOMAIN,starharn-global.nebula-media.org,DIRECT
 DOMAIN,starharn-direct.nebula-media.org,DIRECT
+# > MICU Emby
+DOMAIN,tv.micu.hk,DIRECT
+DOMAIN,tv1.micu.hk,DIRECT
 # > 流星 Emby
 DOMAIN,embyhw.liustar.click,DIRECT
 DOMAIN,emby2.liustar.click,DIRECT
@@ -60,9 +63,6 @@ DOMAIN,embytest2.liustar.click,DIRECT
 DOMAIN,embyfz.liustar.click,DIRECT
 DOMAIN,embydmit.liustar.click,DIRECT
 DOMAIN,embyhw3.liustar.click,DIRECT
-# > MICU Emby
-DOMAIN,tv.micu.hk,DIRECT
-DOMAIN,tv1.micu.hk,DIRECT
 # > IFN
 DOMAIN,ifn.watch,DIRECT
 
