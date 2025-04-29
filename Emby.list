@@ -1,9 +1,6 @@
 # > 国内服 Emby
-# > 微光 DimLight Emby
-DOMAIN,faka.dimlight.top
-DOMAIN,dimlight-jpiij.cynn.top
-DOMAIN,dimlight-jp.cynn.top
-DOMAIN,dimlight-uscn2.cynn.top
+# > SaturDay Xperience Emby
+DOMAIN,shop.saturdayvideo.top
 # > 映月 Emby
 DOMAIN,shop.yuebing.xyz
 # > Tank Emby
@@ -26,8 +23,11 @@ DOMAIN,6.v6dwv882.b.gpou.sweioxg2.223789.xyz
 DOMAIN,4.fireirf.ufvvlvbs.223789.xyz
 DOMAIN,4.v4sfv872vx.y.newbee.d09789e1.223789.xyz
 DOMAIN,6.v6sfv872vx.y.newbee.d09789e1.223789.xyz
-# > SaturDay Xperience Emby
-DOMAIN,shop.saturdayvideo.top
+# > 微光 DimLight Emby
+DOMAIN,faka.dimlight.top
+DOMAIN,dimlight-jpiij.cynn.top
+DOMAIN,dimlight-jp.cynn.top
+DOMAIN,dimlight-uscn2.cynn.top
 # > MeFun Emby
 DOMAIN,shop.iioo.cc
 DOMAIN,cfgtv.ii00.cc
