@@ -46,17 +46,6 @@ DOMAIN,alphatvx.alphatvapp.top
 DOMAIN,shop.nebula-media.org
 DOMAIN,starharn-cf.nebula-media.org
 DOMAIN,starharn.nebula-media.org
-# > 流星 Emby
-DOMAIN,faka.liustar.click
-DOMAIN,embyhw2.liustar.click
-# > 憨豆 Emby
-DOMAIN,client.handoumedia.top
-DOMAIN,client.handoutv.top
-DOMAIN,a1.handoumedia.top
-DOMAIN,a2.handoumedia.top
-DOMAIN,a3.handoumedia.top
-# > StarCat Emby
-DOMAIN,orionx-global.sandwichcat.de
 # > MICU Emby
 DOMAIN,shop.micu.me
 DOMAIN,media.micu.hk
@@ -68,6 +57,17 @@ DOMAIN,cf.bili.rip
 DOMAIN,shop.awatv.de
 DOMAIN,emby.awatv.de
 DOMAIN,cera.awatv.de
+# > StarCat Emby
+DOMAIN,orionx-global.sandwichcat.de
+# > 流星 Emby
+DOMAIN,faka.liustar.click
+DOMAIN,embyhw2.liustar.click
+# > 憨豆 Emby
+DOMAIN,client.handoumedia.top
+DOMAIN,client.handoutv.top
+DOMAIN,a1.handoumedia.top
+DOMAIN,a2.handoumedia.top
+DOMAIN,a3.handoumedia.top
 # > 云海 Emby
 DOMAIN,store.oceancloud.asia
 DOMAIN,emby.oceancloud.asia
