@@ -21,6 +21,8 @@ IP-CIDR,118.89.233.90/24,DIRECT,no-resolve
 DOMAIN-SUFFIX,tiangou.xyz,DIRECT
 
 # > 常规服 Emby
+# > Saturday Xperience Emby
+IP-CIDR,106.53.76.122/24,DIRECT,no-resolve
 # > MeFun Emby
 DOMAIN,p.once.im,DIRECT
 DOMAIN,sptv.ii00.cc,DIRECT
@@ -38,9 +40,6 @@ DOMAIN,sgclaw.sexemby.com,DIRECT
 DOMAIN,sg02.sexemby.com,DIRECT
 DOMAIN,gz302.sexemby.com,DIRECT
 DOMAIN,cdn.sexemby.com,DIRECT
-# > Starharn Emby
-DOMAIN,starharn-global.nebula-media.org,DIRECT
-DOMAIN,starharn-direct.nebula-media.org,DIRECT
 
 # > 公费服 Emby
 # > AlphaTV Emby
@@ -49,6 +48,9 @@ DOMAIN,aop2.204cloud.com,DIRECT
 DOMAIN,aop3.204cloud.com,DIRECT
 DOMAIN,aop4.204cloud.com,DIRECT
 DOMAIN,aocn.204cloud.com,DIRECT
+# > Starharn Emby
+DOMAIN,starharn-global.nebula-media.org,DIRECT
+DOMAIN,starharn-direct.nebula-media.org,DIRECT
 # > 流星 Emby
 DOMAIN,embyhw.liustar.click,DIRECT
 DOMAIN,emby2.liustar.click,DIRECT
