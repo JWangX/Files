@@ -13,20 +13,20 @@ DOMAIN-SUFFIX,stentvessel.club,DIRECT
 # > 国内服 Emby
 # > BigTV Emby
 DOMAIN-SUFFIX,bestemby.com,DIRECT
-# > 微光 DimLight Emby
-DOMAIN,dimlight.cynn.top,DIRECT
-DOMAIN,dimlight-gtm.cynn.top,DIRECT
-IP-CIDR,1.13.80.8/24,DIRECT,no-resolve
-IP-CIDR,43.137.0.29/24,DIRECT,no-resolve
-IP-CIDR,8.138.5.93/24,DIRECT,no-resolve
+# > SaturDay Xperience Emby
+IP-CIDR,106.53.76.122/24,DIRECT,no-resolve
 # > 映月 Emby
 IP-CIDR,118.89.233.90/24,DIRECT,no-resolve
 # > Tank Emby
 DOMAIN-SUFFIX,tiangou.xyz,DIRECT
 
 # > 常规服 Emby
-# > SaturDay Xperience Emby
-IP-CIDR,106.53.76.122/24,DIRECT,no-resolve
+# > 微光 DimLight Emby
+DOMAIN,dimlight.cynn.top,DIRECT
+DOMAIN,dimlight-gtm.cynn.top,DIRECT
+IP-CIDR,1.13.80.8/24,DIRECT,no-resolve
+IP-CIDR,43.137.0.29/24,DIRECT,no-resolve
+IP-CIDR,8.138.5.93/24,DIRECT,no-resolve
 # > MeFun Emby
 DOMAIN,p.once.im,DIRECT
 DOMAIN,sptv.ii00.cc,DIRECT
