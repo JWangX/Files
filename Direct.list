@@ -21,7 +21,7 @@ IP-CIDR,118.89.233.90/24,DIRECT,no-resolve
 DOMAIN-SUFFIX,tiangou.xyz,DIRECT
 
 # > 常规服 Emby
-# > Saturday Xperience Emby
+# > SaturDay Xperience Emby
 IP-CIDR,106.53.76.122/24,DIRECT,no-resolve
 # > MeFun Emby
 DOMAIN,p.once.im,DIRECT
