@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,oxycontin.cc,DIRECT
 DOMAIN-SUFFIX,kwk7thgc.com,DIRECT
 DOMAIN-SUFFIX,stentvessel.club,DIRECT
 
-# > 国内服
+# > 国内服 Emby
 # > BigTV Emby
 DOMAIN-SUFFIX,bestemby.com,DIRECT
 # > 微光 DimLight Emby
@@ -24,7 +24,9 @@ IP-CIDR,118.89.233.90/24,DIRECT,no-resolve
 # > Tank Emby
 DOMAIN-SUFFIX,tiangou.xyz,DIRECT
 
-# > 常规服
+# > 常规服 Emby
+# > SaturDay Xperience Emby
+IP-CIDR,106.53.76.122/24,DIRECT,no-resolve
 # > MeFun Emby
 DOMAIN,p.once.im,DIRECT
 DOMAIN,sptv.ii00.cc,DIRECT
@@ -42,17 +44,27 @@ DOMAIN,sgclaw.sexemby.com,DIRECT
 DOMAIN,sg02.sexemby.com,DIRECT
 DOMAIN,gz302.sexemby.com,DIRECT
 DOMAIN,cdn.sexemby.com,DIRECT
-# > Starharn Emby
-DOMAIN,starharn-global.nebula-media.org,DIRECT
-DOMAIN,starharn-direct.nebula-media.org,DIRECT
 
-# > 公费服
+# > 公费服 Emby
 # > AlphaTV Emby
 DOMAIN,aop1.204cloud.com,DIRECT
 DOMAIN,aop2.204cloud.com,DIRECT
 DOMAIN,aop3.204cloud.com,DIRECT
 DOMAIN,aop4.204cloud.com,DIRECT
 DOMAIN,aocn.204cloud.com,DIRECT
+# > Starharn Emby
+DOMAIN,starharn-global.nebula-media.org,DIRECT
+DOMAIN,starharn-direct.nebula-media.org,DIRECT
+# > MICU Emby
+DOMAIN,tv.micu.hk,DIRECT
+DOMAIN,tv1.micu.hk,DIRECT
+# > Youno Emby
+DOMAIN,plusjp1.younoyes.com,DIRECT
+DOMAIN,plusus1.younoyes.com,DIRECT
+DOMAIN,plusus2.younoyes.com,DIRECT
+DOMAIN,plusus3.younoyes.com,DIRECT
+DOMAIN,plushk1.younoyes.com,DIRECT
+DOMAIN,plushk2.younoyes.com,DIRECT
 # > 流星 Emby
 DOMAIN,embyhw.liustar.click,DIRECT
 DOMAIN,emby2.liustar.click,DIRECT
@@ -62,11 +74,9 @@ DOMAIN,embytest2.liustar.click,DIRECT
 DOMAIN,embyfz.liustar.click,DIRECT
 DOMAIN,embydmit.liustar.click,DIRECT
 DOMAIN,embyhw3.liustar.click,DIRECT
-# > MICU Emby
-DOMAIN,tv.micu.hk,DIRECT
-DOMAIN,tv1.micu.hk,DIRECT
 # > IFN
 DOMAIN,ifn.watch,DIRECT
+
 
 # > Spotify
 DOMAIN-SUFFIX,ap.spotify.com,DIRECT
