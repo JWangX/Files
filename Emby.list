@@ -59,6 +59,10 @@ DOMAIN,emby.awatv.de
 DOMAIN,cera.awatv.de
 # > StarCat Emby
 DOMAIN,orionx-global.sandwichcat.de
+# > Onyra Emby
+DOMAIN,bps8m.onyra.cc
+# > Youno Emby
+DOMAIN,plus.younoyes.com
 # > 流星 Emby
 DOMAIN,faka.liustar.click
 DOMAIN,embyhw2.liustar.click
