@@ -6,10 +6,6 @@ DOMAIN-SUFFIX,oxycontin.cc,DIRECT
 DOMAIN-SUFFIX,kwk7thgc.com,DIRECT
 DOMAIN-SUFFIX,stentvessel.club,DIRECT
 
-# > 白名单 Emby
-# > Peach Emby
-DOMAIN,embymv.link,DIRECT
-
 # > 国内服 Emby
 # > BigTV Emby
 DOMAIN-SUFFIX,bestemby.com,DIRECT
@@ -74,6 +70,10 @@ DOMAIN,embytest2.liustar.click,DIRECT
 DOMAIN,embyfz.liustar.click,DIRECT
 DOMAIN,embydmit.liustar.click,DIRECT
 DOMAIN,embyhw3.liustar.click,DIRECT
+
+# > 白名单 Emby
+# > Peach Emby
+DOMAIN,embymv.link,DIRECT
 
 # > 机场服 Emby
 # > SYN Emby
