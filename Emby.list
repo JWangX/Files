@@ -114,8 +114,11 @@ DOMAIN,yzyz.yezi.my
 DOMAIN,yz.yezi.my
 
 # > 白名单 Emby
+# > 大V影院 Emby
+DOMAIN-SUFFIX,viclub.top
+DOMAIN-SUFFIX,vfing.de
 # > Peach Emby
-DOMAIN,embymv.link,DIRECT
+DOMAIN,embymv.link
 
 # > 机场服 Emby
 # > 好鸭 NiceDuck Emby
