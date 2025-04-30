@@ -113,6 +113,10 @@ DOMAIN,yyds.yezi.my
 DOMAIN,yzyz.yezi.my
 DOMAIN,yz.yezi.my
 
+# > 白名单 Emby
+# > Peach Emby
+DOMAIN,embymv.link,DIRECT
+
 # > 机场服 Emby
 # > 好鸭 NiceDuck Emby
 DOMAIN,my.niceduck.io
