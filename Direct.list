@@ -70,9 +70,15 @@ DOMAIN,embytest2.liustar.click,DIRECT
 DOMAIN,embyfz.liustar.click,DIRECT
 DOMAIN,embydmit.liustar.click,DIRECT
 DOMAIN,embyhw3.liustar.click,DIRECT
+
+# > 机场服 Emby
+# > SYN Emby
+DOMAIN,clip.makima.online,DIRECT
+# > Lyrebird Emby
+DOMAIN,cdn.lyrebirdemby.com,DIRECT
+
 # > IFN
 DOMAIN,ifn.watch,DIRECT
-
 
 # > Spotify
 DOMAIN-SUFFIX,ap.spotify.com,DIRECT
