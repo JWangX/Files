@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,stentvessel.club,DIRECT
 # > BigTV Emby
 DOMAIN-SUFFIX,bestemby.com,DIRECT
 # > SaturDay Xperience Emby
-IP-CIDR,106.53.76.122/24,DIRECT,no-resolve
+IP-CIDR,43.139.188.149/24,DIRECT,no-resolve
 # > 映月 Emby
 IP-CIDR,118.89.233.90/24,DIRECT,no-resolve
 # > Tank Emby
