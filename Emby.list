@@ -9,20 +9,7 @@ DOMAIN,x.vivo50.cc
 # > 常规服 Emby
 # > Magpie Emby
 DOMAIN-SUFFIX,023168.xyz
-DOMAIN,4.v4v223789.kmfjnwr1.223789.xyz
-DOMAIN,6.v6v223789.kmfjnwr1.223789.xyz
-DOMAIN,4.v4v223789.sxfwvxg1.223789.xyz
-DOMAIN,6.v6v223789.sxfwvxg1.223789.xyz
-DOMAIN,4.v4v223789.axudwbru1.223789.xyz
-DOMAIN,6.v6v223789.axudwbru1.223789.xyz
-DOMAIN,4.v4v223789.er.uvkkvk1.223789.xyz
-DOMAIN,4.v4xdu295.a.api.kweioxg2.223789.xyz
-DOMAIN,6.v6xdu295.a.api.kweioxg2.223789.xyz
-DOMAIN,4.v4dwv882.b.gpou.sweioxg2.223789.xyz
-DOMAIN,6.v6dwv882.b.gpou.sweioxg2.223789.xyz
-DOMAIN,4.fireirf.ufvvlvbs.223789.xyz
-DOMAIN,4.v4sfv872vx.y.newbee.d09789e1.223789.xyz
-DOMAIN,6.v6sfv872vx.y.newbee.d09789e1.223789.xyz
+DOMAIN-SUFFIX,223789.xyz
 # > 微光 DimLight Emby
 DOMAIN,faka.dimlight.top
 DOMAIN,dimlight-jpiij.cynn.top
@@ -39,9 +26,7 @@ DOMAIN,emby.sexemby.com
 
 # > 公费服 Emby
 # > AlphaTV Emby
-DOMAIN,store.alphatvapp.top
-DOMAIN,alphatvop.alphatvapp.top
-DOMAIN,alphatvx.alphatvapp.top
+DOMAIN-SUFFIX,alphatvapp.top
 # > Starharn Emby
 DOMAIN,shop.nebula-media.org
 DOMAIN,starharn-cf.nebula-media.org
@@ -53,8 +38,8 @@ DOMAIN,media.micu.hk
 DOMAIN,shop.nvidia.rip
 DOMAIN,hxd.as174.de
 DOMAIN,cf.bili.rip
-# > TeCar Emby
-DOMAIN-SUFFIX,carlos.trade
+# > Siesta Emby
+DOMAIN-SUFFIX,abcj.uk
 # > StarCat Emby
 DOMAIN,orionx-global.sandwichcat.de
 # > Onyra Emby
@@ -63,40 +48,25 @@ DOMAIN,bps8m.onyra.cc
 # > Youno Emby
 DOMAIN,plus.younoyes.com
 # > 流星 Emby
-DOMAIN,faka.liustar.click
-DOMAIN,embyhw2.liustar.click
+DOMAIN-SUFFIX,liustar.click
 # > 憨豆 Emby
-DOMAIN,client.handoumedia.top
+DOMAIN-SUFFIX,handoumedia.top
 DOMAIN,client.handoutv.top
-DOMAIN,a1.handoumedia.top
-DOMAIN,a2.handoumedia.top
-DOMAIN,a3.handoumedia.top
 # > 云海 Emby
-DOMAIN,store.oceancloud.asia
-DOMAIN,emby.oceancloud.asia
+DOMAIN-SUFFIX,oceancloud.asia
 # > 起点站 Emby
 DOMAIN,shop.startednow.org
 DOMAIN,nb.28.al
 DOMAIN,qdz1.top
 # > 哪吒云 Emby
-DOMAIN,fadian.nezhasu.com
-DOMAIN,emby.nezhasu.com
-DOMAIN,djemby.nezhasu.com
-DOMAIN,dgemby.nezhasu.com
-DOMAIN,pxemby.nezhasu.com
-DOMAIN,sremby.nezhasu.com
+DOMAIN-SUFFIX,nezhasu.com
 # > 跑路 Emby
-DOMAIN,faka.paloluma.de
-DOMAIN,cctv.paoluma.de
+DOMAIN-SUFFIX,paoluma.de
 # > 蘑菇 Emby
-DOMAIN,mooguu.xyz
-DOMAIN,shop.mooguu.xyz
+DOMAIN-SUFFIX,mooguu.xyz
 DOMAIN,wf.vban.xyz
-DOMAIN,wf.mooguu.xyz
 # > 拼好服 Emby
-DOMAIN,faka.19333991.xyz
-DOMAIN,19333991.xyz
-DOMAIN,emby.19333991.xyz
+DOMAIN-SUFFIX,19333991.xyz
 # > Zox Emby
 DOMAIN,entry.zox.show
 DOMAIN,cf.zox.show
@@ -105,11 +75,7 @@ DOMAIN,line.xmsl.org
 # > Temby
 DOMAIN,temby856.285286.xyz
 # > 叶子 Emby
-DOMAIN,shop.yezi.my
-DOMAIN,super.yezi.my
-DOMAIN,yyds.yezi.my
-DOMAIN,yzyz.yezi.my
-DOMAIN,yz.yezi.my
+DOMAIN-SUFFIX,yezi.my
 
 # > 白名单 Emby
 # > 大V影院 Emby
@@ -118,12 +84,9 @@ DOMAIN-SUFFIX,vfing.de
 # > Peach Emby
 DOMAIN,embymv.link
 # > 月饼 Emby
-DOMAIN,a.emby.my
-DOMAIN,b.emby.my
-DOMAIN,c.emby.my
-DOMAIN,d.emby.my
-DOMAIN,e.emby.my
-DOMAIN,cf.emby.my
+DOMAIN-SUFFIX,emby.my
+# > TeCar Emby
+DOMAIN-SUFFIX,carlos.trade
 
 # > 机场服 Emby
 # > 好鸭 NiceDuck Emby
