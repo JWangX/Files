@@ -118,7 +118,12 @@ DOMAIN-SUFFIX,vfing.de
 # > Peach Emby
 DOMAIN,embymv.link
 # > 月饼 Emby
-DOMAIN-SUFFIX,emby.my
+DOMAIN,a.emby.my
+DOMAIN,b.emby.my
+DOMAIN,c.emby.my
+DOMAIN,d.emby.my
+DOMAIN,e.emby.my
+DOMAIN,cf.emby.my
 
 # > 机场服 Emby
 # > 好鸭 NiceDuck Emby
