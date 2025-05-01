@@ -53,10 +53,8 @@ DOMAIN,media.micu.hk
 DOMAIN,shop.nvidia.rip
 DOMAIN,hxd.as174.de
 DOMAIN,cf.bili.rip
-# > AWA Emby
-DOMAIN,shop.awatv.de
-DOMAIN,emby.awatv.de
-DOMAIN,cera.awatv.de
+# > TeCar Emby
+DOMAIN-SUFFIX,shop.awatv.de
 # > StarCat Emby
 DOMAIN,orionx-global.sandwichcat.de
 # > Onyra Emby
