@@ -1,3 +1,14 @@
+# > 白名单 Emby
+# > 大V影院 Emby
+DOMAIN-SUFFIX,viclub.top
+DOMAIN-SUFFIX,vfing.de
+# > Peach Emby
+DOMAIN,embymv.link
+# > 月饼 Emby
+DOMAIN-SUFFIX,emby.my
+# > TeCar Emby
+DOMAIN-SUFFIX,carlos.trade
+
 # > 国内服 Emby
 # > SaturDay Xperience Emby
 DOMAIN,shop.saturdayvideo.top
@@ -76,17 +87,6 @@ DOMAIN,line.xmsl.org
 DOMAIN,temby856.285286.xyz
 # > 叶子 Emby
 DOMAIN-SUFFIX,yezi.my
-
-# > 白名单 Emby
-# > 大V影院 Emby
-DOMAIN-SUFFIX,viclub.top
-DOMAIN-SUFFIX,vfing.de
-# > Peach Emby
-DOMAIN,embymv.link
-# > 月饼 Emby
-DOMAIN-SUFFIX,emby.my
-# > TeCar Emby
-DOMAIN-SUFFIX,carlos.trade
 
 # > 机场服 Emby
 # > 好鸭 NiceDuck Emby
