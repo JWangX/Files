@@ -1,108 +1,118 @@
-# > 白名单 Emby
-# > 大V影院 Emby
+# > Emby
+# > 白名单
+# > 大V影院 ¥198
 DOMAIN-SUFFIX,viclub.top
 DOMAIN-SUFFIX,vfing.de
-# > Peach Emby
+# > Peach ¥168
 DOMAIN,embymv.link
-# > 月饼 Emby
+# > 月饼 ¥128
 DOMAIN-SUFFIX,emby.my
-# > TeCar Emby
+# > TeCar ¥120
 DOMAIN-SUFFIX,carlos.trade
 
-# > 国内服 Emby
-# > SaturDay Xperience Emby
+# > 国内服
+# > SaturDay Xperience ¥39/月
 DOMAIN,shop.saturdayvideo.top
-# > 映月 Emby
+# > 映月 ¥30/月
 DOMAIN,shop.yuebing.xyz
-# > Tank Emby
+# > Tank ¥30/月
 DOMAIN,x.vivo50.cc
 
-# > 常规服 Emby
-# > Magpie Emby
+# > 常规服
+# > Magpie ¥365/年
 DOMAIN-SUFFIX,023168.xyz
 DOMAIN-SUFFIX,223789.xyz
-# > 微光 DimLight Emby
+# > 微光 DimLight ¥32/月
 DOMAIN,faka.dimlight.top
 DOMAIN,dimlight-jpiij.cynn.top
 DOMAIN,dimlight-jp.cynn.top
 DOMAIN,dimlight-uscn2.cynn.top
-# > MeFun Emby
+# > MeFun ¥30/月
 DOMAIN,shop.ii00.cc
 DOMAIN,cfgtv.ii00.cc
 DOMAIN,wgtv.ii00.cc
 DOMAIN,music.mefun.vip
-# > 明天倒闭 Emby
+# > 明天倒闭 ¥30/月
 DOMAIN,shop.emine3m.com
 DOMAIN,emby.sexemby.com
 
-# > 公费服 Emby
-# > AlphaTV Emby
+# > 公费服
+# > AlphaTV ¥160/年
 DOMAIN-SUFFIX,alphatvapp.top
-# > MICU Emby
+# > Siesta ¥1128/年
+DOMAIN-SUFFIX,abcj.uk
+# > MICU ¥120/年
 DOMAIN,shop.micu.me
 DOMAIN,media.micu.hk
-# > hxd Emby
+# > hxd ¥88.8/年
 DOMAIN,shop.nvidia.rip
 DOMAIN,hxd.as174.de
 DOMAIN,cf.bili.rip
-# > Siesta Emby
-DOMAIN-SUFFIX,abcj.uk
-# > Starharn Emby
+# > 蘑菇 ¥76/年
+DOMAIN-SUFFIX,mooguu.xyz
+DOMAIN,wf.vban.xyz
+# > Starharn ¥20/月
 DOMAIN,shop.nebula-media.org
 DOMAIN,starharn-cf.nebula-media.org
 DOMAIN,starharn.nebula-media.org
-# > StarCat Emby
-DOMAIN,orionx-global.sandwichcat.de
-# > Onyra Emby
-DOMAIN,shop.onyra.icu
-DOMAIN,bps8m.onyra.cc
-# > Youno Emby
-DOMAIN,plus.younoyes.com
-# > 蘑菇 Emby
-DOMAIN-SUFFIX,mooguu.xyz
-DOMAIN,wf.vban.xyz
-# > 流星 Emby
+# > 流星 ¥20/月
 DOMAIN-SUFFIX,liustar.click
-# > 憨豆 Emby
+# > StarCat ¥17/月
+DOMAIN,orionx-global.sandwichcat.de
+# > 憨豆 ¥12/月
 DOMAIN-SUFFIX,handoumedia.top
 DOMAIN,client.handoutv.top
-# > 云海 Emby
+# > AWA ¥10/月
+DOMAIN-SUFFIX,awatv.de
+# > 哪吒云 ¥10/月
+DOMAIN-SUFFIX,nezhasu.com
+# > Onyra ¥8/月
+DOMAIN,shop.onyra.icu
+DOMAIN,bps8m.onyra.cc
+# > Paolu ¥6.8/月
+DOMAIN-SUFFIX,paoluma.de
+# > Youno ¥6.7/月
+DOMAIN,plus.younoyes.com
+# > 拼好服 ¥6/月
+DOMAIN-SUFFIX,19333991.xyz
+# > 云海 ¥5/月
 DOMAIN-SUFFIX,oceancloud.asia
-# > 起点站 Emby
+# > 硬月 ¥5/月
+DOMAIN-SUFFIX,hardmoon.net
+# > 起点站 ¥5/月
 DOMAIN,shop.startednow.org
 DOMAIN,nb.28.al
 DOMAIN,qdz1.top
-# > 哪吒云 Emby
-DOMAIN-SUFFIX,nezhasu.com
-# > 跑路 Emby
-DOMAIN-SUFFIX,paoluma.de
-# > 拼好服 Emby
-DOMAIN-SUFFIX,19333991.xyz
-# > Zox Emby
+# > Temby ¥4/月
+DOMAIN,temby856.285286.xyz
+# > Zox ¥3.2/月
 DOMAIN,entry.zox.show
 DOMAIN,cf.zox.show
-# > 1111 Emby
+# > 1111 ¥3/月
 DOMAIN,line.xmsl.org
-# > Temby
-DOMAIN,temby856.285286.xyz
-# > 叶子 Emby
+# > 叶子 ¥3/月
 DOMAIN-SUFFIX,yezi.my
 
-# > 机场服 Emby
-# > 好鸭 NiceDuck Emby
+# > 机场服
+# > 好鸭 NiceDuck ¥36/月
 DOMAIN,my.niceduck.io
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,niceduck.lol
-# > 守候 SNTP Emby
+# > 守候 SNTP ¥17/月
 DOMAIN,emby.cn2gias.uk
-# > SYN Emby
+# > SYN ¥10/月
+DOMAIN,my.synn.cc
 DOMAIN,stream.synn.cc
-# > Lyrebird Emby
+# > Lyrebird ¥10/月
 DOMAIN,inside.lyrebirdemby.com
 
-# > 成人服 Emby
-# > PornFans Emby
+# > 成人服
+# > PornFans
 DOMAIN,cfptv.ii00.cc
 DOMAIN,wptv.ii00.cc
-# > hxd_porn Emby
+# > hxd_porn
 DOMAIN,emby.as174.de
+# > AlphaTV-X
+DOMAIN,alphatvx.alphatvapp.top
+# > 云海 NSFW
+DOMAIN,nsfw.oceancloud.asia
