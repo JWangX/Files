@@ -6,30 +6,30 @@ DOMAIN-SUFFIX,oxycontin.cc,DIRECT
 DOMAIN-SUFFIX,kwk7thgc.com,DIRECT
 DOMAIN-SUFFIX,stentvessel.club,DIRECT
 
-# > 国内服 Emby
-# > BigTV Emby
+# > 国内服
+# > BigTV ¥475/年
 DOMAIN-SUFFIX,bestemby.com,DIRECT
-# > SaturDay Xperience Emby
+# > SaturDay Xperience ¥39/月
 IP-CIDR,43.139.188.149/24,DIRECT,no-resolve
-# > 映月 Emby
+# > 映月 ¥30/月
 IP-CIDR,118.89.233.90/24,DIRECT,no-resolve
-# > Tank Emby
+# > Tank ¥30/月
 DOMAIN-SUFFIX,tiangou.xyz,DIRECT
 
 # > 常规服 Emby
-# > 微光 DimLight Emby
+# > 微光 DimLight ¥32/月
 DOMAIN,dimlight.cynn.top,DIRECT
 DOMAIN,dimlight-gtm.cynn.top,DIRECT
 IP-CIDR,1.13.80.8/24,DIRECT,no-resolve
 IP-CIDR,43.137.0.29/24,DIRECT,no-resolve
 IP-CIDR,8.138.5.93/24,DIRECT,no-resolve
-# > MeFun Emby
+# > MeFun ¥30/月
 DOMAIN,p.once.im,DIRECT
 DOMAIN,sptv.ii00.cc,DIRECT
 DOMAIN,g.once.im,DIRECT
 DOMAIN,sgtv.ii00.cc,DIRECT
 DOMAIN,cn-music.mefun.vip,DIRECT
-# > 明天倒闭 Emby
+# > 明天倒闭 ¥30/月
 DOMAIN,hkclaw.sexemby.com,DIRECT
 DOMAIN,hkvol.sexemby.com,DIRECT
 DOMAIN,us4837.sexemby.com,DIRECT
@@ -41,27 +41,20 @@ DOMAIN,sg02.sexemby.com,DIRECT
 DOMAIN,gz302.sexemby.com,DIRECT
 DOMAIN,cdn.sexemby.com,DIRECT
 
-# > 公费服 Emby
-# > AlphaTV Emby
+# > 公费服
+# > AlphaTV ¥160/年
 DOMAIN,aop1.204cloud.com,DIRECT
 DOMAIN,aop2.204cloud.com,DIRECT
 DOMAIN,aop3.204cloud.com,DIRECT
 DOMAIN,aop4.204cloud.com,DIRECT
 DOMAIN,aocn.204cloud.com,DIRECT
-# > MICU Emby
+# > MICU ¥120/年
 DOMAIN,tv.micu.hk,DIRECT
 DOMAIN,tv1.micu.hk,DIRECT
-# > Starharn Emby
+# > Starharn ¥20/月
 DOMAIN,starharn-global.nebula-media.org,DIRECT
 DOMAIN,starharn-direct.nebula-media.org,DIRECT
-# > Youno Emby
-DOMAIN,plusjp1.younoyes.com,DIRECT
-DOMAIN,plusus1.younoyes.com,DIRECT
-DOMAIN,plusus2.younoyes.com,DIRECT
-DOMAIN,plusus3.younoyes.com,DIRECT
-DOMAIN,plushk1.younoyes.com,DIRECT
-DOMAIN,plushk2.younoyes.com,DIRECT
-# > 流星 Emby
+# > 流星 ¥20/月
 DOMAIN,embyhw.liustar.click,DIRECT
 DOMAIN,emby2.liustar.click,DIRECT
 DOMAIN,emby3.liustar.click,DIRECT
@@ -70,11 +63,18 @@ DOMAIN,embytest2.liustar.click,DIRECT
 DOMAIN,embyfz.liustar.click,DIRECT
 DOMAIN,embydmit.liustar.click,DIRECT
 DOMAIN,embyhw3.liustar.click,DIRECT
+# > Youno ¥6.7/月
+DOMAIN,plusjp1.younoyes.com,DIRECT
+DOMAIN,plusus1.younoyes.com,DIRECT
+DOMAIN,plusus2.younoyes.com,DIRECT
+DOMAIN,plusus3.younoyes.com,DIRECT
+DOMAIN,plushk1.younoyes.com,DIRECT
+DOMAIN,plushk2.younoyes.com,DIRECT
 
-# > 机场服 Emby
-# > SYN Emby
+# > 机场服
+# > SYN ¥10/月
 DOMAIN,clip.makima.online,DIRECT
-# > Lyrebird Emby
+# > Lyrebird ¥10/月
 DOMAIN,cdn.lyrebirdemby.com,DIRECT
 
 # > IFN
