@@ -102,6 +102,9 @@ DOMAIN-SUFFIX,yezi.my
 DOMAIN-SUFFIX,niceduck.io
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,niceduck.lol
+# > Cherry ¥20/月
+DOMAIN-SUFFIX,chynet.net
+DOMAIN-SUFFIX,cherrytv.one
 # > 守候 SNTP ¥17/月
 DOMAIN-SUFFIX,sntp.uk
 DOMAIN,emby.cn2gias.uk
