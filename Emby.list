@@ -48,10 +48,6 @@ DOMAIN,media.micu.hk
 DOMAIN,shop.nvidia.rip
 DOMAIN,hxd.as174.de
 DOMAIN,cf.bili.rip
-# > 蘑菇 ¥76/年
-DOMAIN,shop.mooguu.org
-DOMAIN,wf.vban.xyz
-DOMAIN,wf.mooguu.xyz
 # > Starharn ¥20/月
 DOMAIN,shop.nebula-media.org
 DOMAIN,starharn-cf.nebula-media.org
@@ -67,6 +63,10 @@ DOMAIN,client.handoutv.top
 DOMAIN-SUFFIX,awatv.de
 # > 哪吒云 ¥10/月
 DOMAIN-SUFFIX,nezhasu.com
+# > 蘑菇 ¥8/月
+DOMAIN,shop.mooguu.org
+DOMAIN,wf.vban.xyz
+DOMAIN,wf.mooguu.xyz
 # > Onyra ¥8/月
 DOMAIN,shop.onyra.icu
 DOMAIN,bps8m.onyra.cc
