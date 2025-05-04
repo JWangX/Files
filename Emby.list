@@ -99,17 +99,20 @@ DOMAIN-SUFFIX,yezi.my
 
 # > 机场服
 # > 好鸭 NiceDuck ¥36/月
-DOMAIN,my.niceduck.io
+DOMAIN-SUFFIX,niceduck.io
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,niceduck.lol
 # > 守候 SNTP ¥17/月
+DOMAIN-SUFFIX,sntp.uk
 DOMAIN,emby.cn2gias.uk
 # > SYN ¥10/月
-DOMAIN,my.synn.cc
+DOMAIN-SUFFIX,synn.cc
 DOMAIN,stream.synn.cc
 # > Lyrebird ¥10/月
+DOMAIN-SUFFIX,lyrebird.cloud
 DOMAIN,inside.lyrebirdemby.com
 # > Ash ¥9/月
+DOMAIN-SUFFIX,ash6.com
 DOMAIN,tv.ash.yt
 DOMAIN,ashtv.huajia.xyz
 
