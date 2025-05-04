@@ -98,23 +98,23 @@ DOMAIN,line.xmsl.org
 DOMAIN-SUFFIX,yezi.my
 
 # > 机场服
-# > 好鸭 NiceDuck
+# > 好鸭 NiceDuck ¥36/月
 DOMAIN-SUFFIX,niceduck.io
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,niceduck.lol
-# > Cherry
+# > Cherry ¥20/月
 DOMAIN-SUFFIX,chynet.net
 DOMAIN-SUFFIX,cherrytv.one
-# > 守候 SNTP
+# > 守候 SNTP ¥17/月
 DOMAIN-SUFFIX,sntp.uk
 DOMAIN,emby.cn2gias.uk
-# > SYN
+# > SYN ¥10/月
 DOMAIN-SUFFIX,synn.cc
 DOMAIN,stream.synn.cc
-# > Lyrebird
+# > Lyrebird ¥10/月
 DOMAIN-SUFFIX,lyrebird.cloud
 DOMAIN,inside.lyrebirdemby.com
-# > Ash
+# > Ash ¥10/月
 DOMAIN-SUFFIX,ash6.com
 DOMAIN,tv.ash.yt
 DOMAIN,ashtv.huajia.xyz
