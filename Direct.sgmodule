@@ -18,6 +18,8 @@ IP-CIDR,118.89.233.90/24,DIRECT,no-resolve
 DOMAIN-SUFFIX,tiangou.xyz,DIRECT
 
 # > 常规服 Emby
+# > Magpie ¥365/年
+DOMAIN-SUFFIX,223789.xyz,DIRECT
 # > 微光 DimLight Emby
 DOMAIN,dimlight.cynn.top,DIRECT
 DOMAIN,dimlight-gtm.cynn.top,DIRECT
