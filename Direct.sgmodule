@@ -14,12 +14,16 @@ DOMAIN-SUFFIX,bestemby.com,DIRECT
 DOMAIN-SUFFIX,223789.xyz,DIRECT
 # > SaturDay Xperience ¥39/月
 IP-CIDR,43.139.188.149/24,DIRECT,no-resolve
+# > Omega ¥39/月
+DOMAIN,a.204cloud.com,DIRECT
 # > 微光 DimLight ¥32/月
 DOMAIN,dimlight.cynn.top,DIRECT
 DOMAIN,dimlight-gtm.cynn.top,DIRECT
 IP-CIDR,1.13.80.8/24,DIRECT,no-resolve
 IP-CIDR,43.137.0.29/24,DIRECT,no-resolve
 IP-CIDR,8.138.5.93/24,DIRECT,no-resolve
+# > 蘑菇硬盘 ¥32/月
+DOMAIN,mm.vo0.site,DIRECT
 # > MeFun ¥30/月
 DOMAIN,p.once.im,DIRECT
 DOMAIN,sptv.ii00.cc,DIRECT
@@ -41,6 +45,7 @@ DOMAIN,sgclaw.sexemby.com,DIRECT
 DOMAIN,sg02.sexemby.com,DIRECT
 DOMAIN,gz302.sexemby.com,DIRECT
 DOMAIN,cdn.sexemby.com,DIRECT
+
 
 # > 公费服 Emby
 # > AlphaTV Emby
