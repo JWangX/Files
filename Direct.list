@@ -3,19 +3,13 @@ DOMAIN-SUFFIX,ieginh.lol,DIRECT
 DOMAIN-SUFFIX,nexconvert.com,DIRECT
 DOMAIN-SUFFIX,kwk7thgc.com,DIRECT
 
-# > 国内服
+# > 常规服 Emby
 # > BigTV ¥475/年
 DOMAIN-SUFFIX,bestemby.com,DIRECT
-# > SaturDay Xperience ¥39/月
-IP-CIDR,43.139.188.149/24,DIRECT,no-resolve
-# > 映月 ¥30/月
-IP-CIDR,118.89.233.90/24,DIRECT,no-resolve
-# > Tank ¥30/月
-DOMAIN-SUFFIX,tiangou.xyz,DIRECT
-
-# > 常规服 Emby
 # > Magpie ¥365/年
 DOMAIN-SUFFIX,223789.xyz,DIRECT
+# > SaturDay Xperience ¥39/月
+IP-CIDR,43.139.188.149/24,DIRECT,no-resolve
 # > 微光 DimLight ¥32/月
 DOMAIN,dimlight.cynn.top,DIRECT
 DOMAIN,dimlight-gtm.cynn.top,DIRECT
@@ -28,6 +22,10 @@ DOMAIN,sptv.ii00.cc,DIRECT
 DOMAIN,g.once.im,DIRECT
 DOMAIN,sgtv.ii00.cc,DIRECT
 DOMAIN,cn-music.mefun.vip,DIRECT
+# > Tank ¥30/月
+DOMAIN-SUFFIX,tiangou.xyz,DIRECT
+# > 映月 ¥30/月
+IP-CIDR,118.89.233.90/24,DIRECT,no-resolve
 # > 明天倒闭 ¥30/月
 DOMAIN,hkclaw.sexemby.com,DIRECT
 DOMAIN,hkvol.sexemby.com,DIRECT
