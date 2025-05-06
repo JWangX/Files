@@ -7,32 +7,30 @@ DOMAIN-SUFFIX,ieginh.lol,DIRECT
 DOMAIN-SUFFIX,nexconvert.com,DIRECT
 DOMAIN-SUFFIX,kwk7thgc.com,DIRECT
 
-# > 国内服 Emby
-# > BigTV Emby
-DOMAIN-SUFFIX,bestemby.com,DIRECT
-# > SaturDay Xperience Emby
-IP-CIDR,43.139.188.149/24,DIRECT,no-resolve
-# > 映月 Emby
-IP-CIDR,118.89.233.90/24,DIRECT,no-resolve
-# > Tank Emby
-DOMAIN-SUFFIX,tiangou.xyz,DIRECT
-
 # > 常规服 Emby
+# > BigTV ¥475/年
+DOMAIN-SUFFIX,bestemby.com,DIRECT
 # > Magpie ¥365/年
 DOMAIN-SUFFIX,223789.xyz,DIRECT
-# > 微光 DimLight Emby
+# > SaturDay Xperience ¥39/月
+IP-CIDR,43.139.188.149/24,DIRECT,no-resolve
+# > 微光 DimLight ¥32/月
 DOMAIN,dimlight.cynn.top,DIRECT
 DOMAIN,dimlight-gtm.cynn.top,DIRECT
 IP-CIDR,1.13.80.8/24,DIRECT,no-resolve
 IP-CIDR,43.137.0.29/24,DIRECT,no-resolve
 IP-CIDR,8.138.5.93/24,DIRECT,no-resolve
-# > MeFun Emby
+# > MeFun ¥30/月
 DOMAIN,p.once.im,DIRECT
 DOMAIN,sptv.ii00.cc,DIRECT
 DOMAIN,g.once.im,DIRECT
 DOMAIN,sgtv.ii00.cc,DIRECT
 DOMAIN,cn-music.mefun.vip,DIRECT
-# > 明天倒闭 Emby
+# > Tank ¥30/月
+DOMAIN-SUFFIX,tiangou.xyz,DIRECT
+# > 映月 ¥30/月
+IP-CIDR,118.89.233.90/24,DIRECT,no-resolve
+# > 明天倒闭 ¥30/月
 DOMAIN,hkclaw.sexemby.com,DIRECT
 DOMAIN,hkvol.sexemby.com,DIRECT
 DOMAIN,us4837.sexemby.com,DIRECT
