@@ -10,17 +10,11 @@ DOMAIN-SUFFIX,emby.my
 # > TeCar ¥120
 DOMAIN-SUFFIX,carlos.trade
 
-# > 国内服
-# > SaturDay Xperience ¥39/月
-DOMAIN,shop.saturdayvideo.top
-# > 映月 ¥30/月
-DOMAIN,shop.yuebing.xyz
-# > Tank ¥30/月
-DOMAIN,x.vivo50.cc
-
 # > 常规服
 # > Magpie ¥365/年
 DOMAIN-SUFFIX,023168.xyz
+# > SaturDay Xperience ¥39/月
+DOMAIN,shop.saturdayvideo.top
 # > 微光 DimLight ¥32/月
 DOMAIN,faka.dimlight.top
 DOMAIN,dimlight-jpiij.cynn.top
@@ -31,6 +25,10 @@ DOMAIN,shop.ii00.cc
 DOMAIN,cfgtv.ii00.cc
 DOMAIN,wgtv.ii00.cc
 DOMAIN,music.mefun.vip
+# > Tank ¥30/月
+DOMAIN,x.vivo50.cc
+# > 映月 ¥30/月
+DOMAIN,shop.yuebing.xyz
 # > 明天倒闭 ¥30/月
 DOMAIN,shop.emine3m.com
 DOMAIN,emby.sexemby.com
