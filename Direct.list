@@ -41,17 +41,6 @@ DOMAIN,sgclaw.sexemby.com,DIRECT
 DOMAIN,sg02.sexemby.com,DIRECT
 DOMAIN,gz302.sexemby.com,DIRECT
 DOMAIN,cdn.sexemby.com,DIRECT
-
-# > 公费服
-# > AlphaTV ¥160/年
-DOMAIN,aop1.204cloud.com,DIRECT
-DOMAIN,aop2.204cloud.com,DIRECT
-DOMAIN,aop3.204cloud.com,DIRECT
-DOMAIN,aop4.204cloud.com,DIRECT
-DOMAIN,aocn.204cloud.com,DIRECT
-# > MICU ¥120/年
-DOMAIN,tv.micu.hk,DIRECT
-DOMAIN,tv1.micu.hk,DIRECT
 # > Starharn ¥20/月
 DOMAIN,starharn-global.nebula-media.org,DIRECT
 DOMAIN,starharn-direct.nebula-media.org,DIRECT
@@ -64,6 +53,17 @@ DOMAIN,embytest2.liustar.click,DIRECT
 DOMAIN,embyfz.liustar.click,DIRECT
 DOMAIN,embydmit.liustar.click,DIRECT
 DOMAIN,embyhw3.liustar.click,DIRECT
+
+# > 公费服
+# > AlphaTV ¥160/年
+DOMAIN,aop1.204cloud.com,DIRECT
+DOMAIN,aop2.204cloud.com,DIRECT
+DOMAIN,aop3.204cloud.com,DIRECT
+DOMAIN,aop4.204cloud.com,DIRECT
+DOMAIN,aocn.204cloud.com,DIRECT
+# > MICU ¥120/年
+DOMAIN,tv.micu.hk,DIRECT
+DOMAIN,tv1.micu.hk,DIRECT
 # > Youno ¥6.7/月
 DOMAIN,plusjp1.younoyes.com,DIRECT
 DOMAIN,plusus1.younoyes.com,DIRECT
