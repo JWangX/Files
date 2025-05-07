@@ -32,6 +32,12 @@ DOMAIN,shop.yuebing.xyz
 # > 明天倒闭 ¥30/月
 DOMAIN,shop.emine3m.com
 DOMAIN,emby.sexemby.com
+# > Starharn ¥20/月
+DOMAIN,shop.nebula-media.org
+DOMAIN,starharn-cf.nebula-media.org
+DOMAIN,starharn.nebula-media.org
+# > 流星 ¥20/月
+DOMAIN-SUFFIX,liustar.click
 
 # > 公费服
 # > AlphaTV ¥160/年
@@ -45,12 +51,6 @@ DOMAIN,media.micu.hk
 DOMAIN,shop.nvidia.rip
 DOMAIN,hxd.as174.de
 DOMAIN,cf.bili.rip
-# > Starharn ¥20/月
-DOMAIN,shop.nebula-media.org
-DOMAIN,starharn-cf.nebula-media.org
-DOMAIN,starharn.nebula-media.org
-# > 流星 ¥20/月
-DOMAIN-SUFFIX,liustar.click
 # > StarCat ¥17/月
 DOMAIN,orionx-global.sandwichcat.de
 # > 憨豆 ¥12/月
