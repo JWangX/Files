@@ -13,6 +13,13 @@ DOMAIN-SUFFIX,carlos.trade
 # > 常规服
 # > Magpie ¥365/年
 DOMAIN-SUFFIX,023168.xyz
+# > MeFun ¥327/年
+DOMAIN,shop.ii00.cc
+DOMAIN,cfgtv.ii00.cc
+DOMAIN,wgtv.ii00.cc
+DOMAIN,music.mefun.vip
+# > Tank ¥300/年
+DOMAIN,x.vivo50.cc
 # > SaturDay Xperience ¥39/月
 DOMAIN,shop.saturdayvideo.top
 # > 微光 DimLight ¥32/月
@@ -20,13 +27,6 @@ DOMAIN,faka.dimlight.top
 DOMAIN,dimlight-jpiij.cynn.top
 DOMAIN,dimlight-jp.cynn.top
 DOMAIN,dimlight-uscn2.cynn.top
-# > MeFun ¥30/月
-DOMAIN,shop.ii00.cc
-DOMAIN,cfgtv.ii00.cc
-DOMAIN,wgtv.ii00.cc
-DOMAIN,music.mefun.vip
-# > Tank ¥30/月
-DOMAIN,x.vivo50.cc
 # > 映月 ¥30/月
 DOMAIN,shop.yuebing.xyz
 # > 明天倒闭 ¥30/月
