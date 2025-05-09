@@ -8,6 +8,14 @@ DOMAIN-SUFFIX,kwk7thgc.com,DIRECT
 DOMAIN-SUFFIX,bestemby.com,DIRECT
 # > Magpie ¥365/年
 DOMAIN-SUFFIX,223789.xyz,DIRECT
+# > MeFun ¥327/年
+DOMAIN,p.once.im,DIRECT
+DOMAIN,sptv.ii00.cc,DIRECT
+DOMAIN,g.once.im,DIRECT
+DOMAIN,sgtv.ii00.cc,DIRECT
+DOMAIN,cn-music.mefun.vip,DIRECT
+# > Tank ¥300/年
+DOMAIN-SUFFIX,tiangou.xyz,DIRECT
 # > SaturDay Xperience ¥39/月
 IP-CIDR,43.139.188.149/24,DIRECT,no-resolve
 # > Omega ¥39/月
@@ -21,14 +29,6 @@ IP-CIDR,43.137.0.29/24,DIRECT,no-resolve
 IP-CIDR,8.138.5.93/24,DIRECT,no-resolve
 # > 蘑菇硬盘 ¥32/月
 DOMAIN,mm.vo0.site,DIRECT
-# > MeFun ¥30/月
-DOMAIN,p.once.im,DIRECT
-DOMAIN,sptv.ii00.cc,DIRECT
-DOMAIN,g.once.im,DIRECT
-DOMAIN,sgtv.ii00.cc,DIRECT
-DOMAIN,cn-music.mefun.vip,DIRECT
-# > Tank ¥30/月
-DOMAIN-SUFFIX,tiangou.xyz,DIRECT
 # > 映月 ¥30/月
 IP-CIDR,118.89.233.90/24,DIRECT,no-resolve
 # > 明天倒闭 ¥30/月
