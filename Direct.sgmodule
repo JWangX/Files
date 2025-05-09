@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,223789.xyz,DIRECT
 IP-CIDR,43.139.188.149/24,DIRECT,no-resolve
 # > Omega ¥39/月
 DOMAIN,a.204cloud.com,DIRECT
+IP-CIDR,129.204.227.118/24,DIRECT,no-resolve
 # > 微光 DimLight ¥32/月
 DOMAIN,dimlight.cynn.top,DIRECT
 DOMAIN,dimlight-gtm.cynn.top,DIRECT
