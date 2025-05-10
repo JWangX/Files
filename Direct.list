@@ -80,7 +80,7 @@ DOMAIN,clip.makima.online,DIRECT
 DOMAIN,cdn.lyrebirdemby.com,DIRECT
 
 # > IFN
-DOMAIN,ifn.watch,DIRECT
+DOMAIN,cn.ifn.watch,DIRECT
 
 # > Spotify
 DOMAIN-SUFFIX,ap.spotify.com,DIRECT
